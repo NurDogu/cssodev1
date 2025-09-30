@@ -1,0 +1,40 @@
+    h1{
+            color:rgb(159, 6, 108);
+            text-align: center;
+            
+        }
+        body{background-color: pink;}
+        h2{
+            color:aqua;
+            text-align: center;
+            text-decoration: underline;
+        }
+        a{
+            color:blueviolet;
+            
+        }
+        p{
+            color:azure;
+            text-align: center;
+            font-style: italic;
+            
+        }
+        ul{
+            list-style-type: square;
+            display: inline-table;
+            list-style-position: inside;
+            color: rgb(110, 7, 81);
+            font-family: fantasy;
+            text-align: center;
+        }
+        li{
+            color: black;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: start;
+        }
+        img{
+            align-items: center;
+            clip-path: ellipse(40% 50%);
+        }
+            
+            
